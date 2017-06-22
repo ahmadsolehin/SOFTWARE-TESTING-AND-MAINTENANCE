@@ -1,0 +1,81 @@
+@FaultFile
+/////////////////////////////////////
+// Class information
+////////////////////////////////////
+classname : Promotion
+methodname : pro
+specifier: double
+paramtypes : 4
+returntype: double
+
+
+////////////////////////////////////
+// Parameter types
+////////////////////////////////////
+parameter : partypes[0]=String.TYPE
+parameter : partypes[1]=Integer.TYPE  
+parameter : partypes[2]=Double.TYPE 
+parameter : partypes[3]=String.TYPE 
+
+////////////////////////////////////
+// Test Case 0
+////////////////////////////////////
+arglist : arglist[0]=new String("female")
+arglist : arglist[1]=new Integer(45)
+arglist : arglist[2]=new Double(1500)
+arglist : arglist[3]=new String("Other")
+////////////////////////////////////
+// Test Case 1
+////////////////////////////////////
+arglist : arglist[0]=new String("female")
+arglist : arglist[1]=new Integer(44)
+arglist : arglist[2]=new Double(1000)
+arglist : arglist[3]=new String("single")
+////////////////////////////////////
+// Test Case 2
+////////////////////////////////////
+arglist : arglist[0]=new String("female")
+arglist : arglist[1]=new Integer(66)
+arglist : arglist[2]=new Double(1898)
+arglist : arglist[3]=new String("married")
+
+////////////////////////////////////
+// Test Case 3
+////////////////////////////////////
+arglist : arglist[0]=new String("male")
+arglist : arglist[1]=new Integer(49)
+arglist : arglist[2]=new Double(1900)
+arglist : arglist[3]=new String(other)
+
+////////////////////////////////////
+// Test Case 4
+////////////////////////////////////
+arglist : arglist[0]=new String("male")
+arglist : arglist[1]=new Integer(45)
+arglist : arglist[2]=new Double("1567")
+arglist : arglist[3]=new String("married")
+
+////////////////////////////////////
+// Test Case 5
+////////////////////////////////////
+arglist : arglist[0]=new String("male")
+arglist : arglist[1]=new Integer(50)
+arglist : arglist[2]=new Double(1456)
+arglist : arglist[3]=new String("single")
+
+////////////////////////////////////
+// Test Case 6
+////////////////////////////////////
+arglist : arglist[0]=new String("male")
+arglist : arglist[1]=new Integer(50)
+arglist : arglist[2]=new Double(1489)
+arglist : arglist[3]=new String("other")
+
+////////////////////////////////////
+// Test Case 7
+////////////////////////////////////
+arglist : arglist[0]=new String("male")
+arglist : arglist[1]=new Integer(50)
+arglist : arglist[2]=new Double(1776)
+arglist : arglist[3]=new String("single")
+

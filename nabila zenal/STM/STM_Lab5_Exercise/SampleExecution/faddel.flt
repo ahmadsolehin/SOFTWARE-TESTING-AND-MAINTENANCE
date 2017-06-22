@@ -1,0 +1,47 @@
+@FaultFile
+/////////////////////////////////////
+// Class information
+////////////////////////////////////
+classname : adder
+methodname : add_basictypes_integer
+specifier: private
+paramtypes : 2
+returntype: int
+
+
+////////////////////////////////////
+// Parameter types
+////////////////////////////////////
+parameter : partypes[0]=Integer.TYPE
+parameter : partypes[1]=Integer.TYPE  
+
+////////////////////////////////////
+// Test Case 0
+////////////////////////////////////
+arglist : arglist[0]=new Integer(Integer.MAX_VALUE)
+arglist : arglist[1]=new Integer(Integer.MAX_VALUE)
+
+////////////////////////////////////
+// Test Case 1
+////////////////////////////////////
+arglist : arglist[0]=new Integer(Integer.MIN_VALUE)
+arglist : arglist[1]=new Integer(Integer.MAX_VALUE)
+
+////////////////////////////////////
+// Test Case 2
+////////////////////////////////////
+arglist : arglist[0]=new Integer(Integer.MIN_VALUE)
+arglist : arglist[1]=new Integer(Integer.MIN_VALUE)
+
+////////////////////////////////////
+// Test Case 3
+////////////////////////////////////
+arglist : arglist[0]=new Integer(0)
+arglist : arglist[1]=new Integer(Integer.MIN_VALUE)
+
+////////////////////////////////////
+// Test Case 4
+////////////////////////////////////
+arglist : arglist[0]=new Integer(0)
+arglist : arglist[1]=new Integer(Integer.MAX_VALUE)
+

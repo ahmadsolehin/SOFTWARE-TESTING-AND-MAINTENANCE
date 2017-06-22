@@ -1,0 +1,121 @@
+@FaultFile
+/////////////////////////////////////
+// Class information
+////////////////////////////////////
+classname : DetTrian
+methodname :triangle
+specifier: public
+paramtypes : 3
+returntype: string
+////////////////////////////////////
+// Parameter types
+////////////////////////////////////
+parameter : partypes[0]=Integer.TYPE
+parameter : partypes[1]=Integer.TYPE  
+parameter : partypes[2]=Integer.TYPE 
+
+////////////////////////////////////
+// Test Case 0
+////////////////////////////////////
+arglist : arglist[0]=new Integer(7)
+arglist : arglist[1]=new Integer(-3)
+arglist : arglist[2]=new Integer(-5)
+
+////////////////////////////////////
+// Test Case 1
+////////////////////////////////////
+arglist : arglist[0]=new Integer(-5)
+arglist : arglist[1]=new Integer(-5)
+arglist : arglist[2]=new Integer(101)
+
+////////////////////////////////////
+// Test Case 2
+////////////////////////////////////
+arglist : arglist[0]=new Integer(7)
+arglist : arglist[1]=new Integer(40)
+arglist : arglist[2]=new Integer(-8)
+
+////////////////////////////////////
+// Test Case 3
+////////////////////////////////////
+arglist : arglist[0]=new Integer(23)
+arglist : arglist[1]=new Integer(15)
+arglist : arglist[2]=new Integer(-5)
+
+////////////////////////////////////
+// Test Case 4
+////////////////////////////////////
+arglist : arglist[0]=new Integer(68)
+arglist : arglist[1]=new Integer(47)
+arglist : arglist[2]=new Integer(105)
+
+////////////////////////////////////
+// Test Case 5
+////////////////////////////////////
+arglist : arglist[0]=new Integer(70)
+arglist : arglist[1]=new Integer(-17)
+arglist : arglist[2]=new Integer(-10)
+////////////////////////////////////
+
+////////////////////////////////////
+// Test Case 6
+////////////////////////////////////
+arglist : arglist[0]=new Integer(2)
+arglist : arglist[1]=new Integer(40)
+arglist : arglist[2]=new Integer(-40)
+////////////////////////////////////
+
+// Test Case 7
+////////////////////////////////////
+arglist : arglist[0]=new Integer(10)
+arglist : arglist[1]=new Integer(5)
+arglist : arglist[2]=new Integer(5)
+
+////////////////////////////////////
+// Test Case 8
+////////////////////////////////////
+arglist : arglist[0]=new Integer(49)
+arglist : arglist[1]=new Integer(10)
+arglist : arglist[2]=new Integer(25)
+
+////////////////////////////////////
+// Test Case 9
+////////////////////////////////////
+arglist : arglist[0]=new Integer(12)
+arglist : arglist[1]=new Integer(25)
+arglist : arglist[2]=new Integer(9)
+
+////////////////////////////////////
+// Test Case 10
+////////////////////////////////////
+arglist : arglist[0]=new Integer(28)
+arglist : arglist[1]=new Integer(6)
+arglist : arglist[2]=new Integer(29)
+
+////////////////////////////////////
+// Test Case 11
+////////////////////////////////////
+arglist : arglist[0]=new Integer(25)
+arglist : arglist[1]=new Integer(25)
+arglist : arglist[2]=new Integer(17)
+
+////////////////////////////////////
+// Test Case 12
+////////////////////////////////////
+arglist : arglist[0]=new Integer(26)
+arglist : arglist[1]=new Integer(26)
+arglist : arglist[2]=new Integer(26)
+
+////////////////////////////////////
+// Test Case 13
+////////////////////////////////////
+arglist : arglist[0]=new Integer(10)
+arglist : arglist[1]=new Integer(38)
+arglist : arglist[2]=new Integer(17)
+
+////////////////////////////////////
+// Test Case 14
+////////////////////////////////////
+arglist : arglist[0]=new Integer(-15)
+arglist : arglist[1]=new Integer(40)
+arglist : arglist[2]=new Integer(-5)

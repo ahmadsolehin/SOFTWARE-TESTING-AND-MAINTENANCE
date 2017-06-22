@@ -1,0 +1,693 @@
+=========================================
+Test ID = 0
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MAX_VALUE)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -2
+=========================================
+Test ID = 1
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MAX_VALUE)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -2
+=========================================
+Test ID = 2
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MAX_VALUE)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = -1
+=========================================
+Test ID = 3
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MAX_VALUE)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = -1
+=========================================
+Test ID = 4
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MAX_VALUE)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -2
+=========================================
+Test ID = 5
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MAX_VALUE)
+ arglist[1]=new Integer(1000)
+The sum = -2147482649
+=========================================
+Test ID = 6
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MAX_VALUE)
+ arglist[1]=new Integer(1000)
+The sum = -2147482649
+=========================================
+Test ID = 7
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MAX_VALUE)
+ arglist[1]=new Integer(1000)
+The sum = -2147482649
+=========================================
+Test ID = 8
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MAX_VALUE)
+ arglist[1]=new Integer(1000)
+The sum = -2147482649
+=========================================
+Test ID = 9
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MAX_VALUE)
+ arglist[1]=new Integer(1000)
+The sum = -2147482649
+=========================================
+Test ID = 10
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -1
+=========================================
+Test ID = 11
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -1
+=========================================
+Test ID = 12
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = 0
+=========================================
+Test ID = 13
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = 0
+=========================================
+Test ID = 14
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -1
+=========================================
+Test ID = 15
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(1000)
+The sum = -2147482648
+=========================================
+Test ID = 16
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(1000)
+The sum = -2147482648
+=========================================
+Test ID = 17
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(1000)
+The sum = -2147482648
+=========================================
+Test ID = 18
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(1000)
+The sum = -2147482648
+=========================================
+Test ID = 19
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(1000)
+The sum = -2147482648
+=========================================
+Test ID = 20
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -1
+=========================================
+Test ID = 21
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -1
+=========================================
+Test ID = 22
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = 0
+=========================================
+Test ID = 23
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = 0
+=========================================
+Test ID = 24
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -1
+=========================================
+Test ID = 25
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(1000)
+The sum = -2147482648
+=========================================
+Test ID = 26
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(1000)
+The sum = -2147482648
+=========================================
+Test ID = 27
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(1000)
+The sum = -2147482648
+=========================================
+Test ID = 28
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(1000)
+The sum = -2147482648
+=========================================
+Test ID = 29
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(Integer.MIN_VALUE)
+ arglist[1]=new Integer(1000)
+The sum = -2147482648
+=========================================
+Test ID = 30
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = 2147483647
+=========================================
+Test ID = 31
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = 2147483647
+=========================================
+Test ID = 32
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = -2147483648
+=========================================
+Test ID = 33
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = -2147483648
+=========================================
+Test ID = 34
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = 2147483647
+=========================================
+Test ID = 35
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(1000)
+The sum = 1000
+=========================================
+Test ID = 36
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(1000)
+The sum = 1000
+=========================================
+Test ID = 37
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(1000)
+The sum = 1000
+=========================================
+Test ID = 38
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(1000)
+The sum = 1000
+=========================================
+Test ID = 39
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(1000)
+The sum = 1000
+=========================================
+Test ID = 40
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = 2147483647
+=========================================
+Test ID = 41
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = 2147483647
+=========================================
+Test ID = 42
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = -2147483648
+=========================================
+Test ID = 43
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = -2147483648
+=========================================
+Test ID = 44
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = 2147483647
+=========================================
+Test ID = 45
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(1000)
+The sum = 1000
+=========================================
+Test ID = 46
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(1000)
+The sum = 1000
+=========================================
+Test ID = 47
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(1000)
+The sum = 1000
+=========================================
+Test ID = 48
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(1000)
+The sum = 1000
+=========================================
+Test ID = 49
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(0)
+ arglist[1]=new Integer(1000)
+The sum = 1000
+=========================================
+Test ID = 50
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -2147483639
+=========================================
+Test ID = 51
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -2147483639
+=========================================
+Test ID = 52
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = -2147483638
+=========================================
+Test ID = 53
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = -2147483638
+=========================================
+Test ID = 54
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -2147483639
+=========================================
+Test ID = 55
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 56
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 57
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 58
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 59
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 60
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -2147483639
+=========================================
+Test ID = 61
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -2147483639
+=========================================
+Test ID = 62
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = -2147483638
+=========================================
+Test ID = 63
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = -2147483638
+=========================================
+Test ID = 65
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 66
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 67
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 68
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 69
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 70
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -2147483639
+=========================================
+Test ID = 71
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -2147483639
+=========================================
+Test ID = 72
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = -2147483638
+=========================================
+Test ID = 73
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = -2147483638
+=========================================
+Test ID = 74
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -2147483639
+=========================================
+Test ID = 75
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 76
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 77
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 78
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 79
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 80
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -2147483639
+=========================================
+Test ID = 81
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -2147483639
+=========================================
+Test ID = 82
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = -2147483638
+=========================================
+Test ID = 83
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = -2147483638
+=========================================
+Test ID = 84
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -2147483639
+=========================================
+Test ID = 85
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 86
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 87
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 88
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 89
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 90
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -2147483639
+=========================================
+Test ID = 91
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -2147483639
+=========================================
+Test ID = 92
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = -2147483638
+=========================================
+Test ID = 93
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MIN_VALUE)
+The sum = -2147483638
+=========================================
+Test ID = 94
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(Integer.MAX_VALUE)
+The sum = -2147483639
+=========================================
+Test ID = 95
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 96
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 97
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 98
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
+=========================================
+Test ID = 99
+ Class = adder
+ Method = protected add_java_Integer
+ arglist[0]=new Integer(10)
+ arglist[1]=new Integer(1000)
+The sum = 1010
